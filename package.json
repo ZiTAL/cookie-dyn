@@ -1,0 +1,17 @@
+{
+	"name": "cookie-dyn",
+	"version": "0.0.1",
+	"description": "cookies library for node.js with dynamic cookies support",
+	"main": "./cookie-dyn.js",
+	"keywords":
+	[
+		"cookie",
+		"cookies",
+		"dynamic"
+	],
+	"repository" :
+	{
+		"type" : "git",
+		"url" : "https://github.com/ZiTAL/cookie-dyn.git"
+	}
+}
